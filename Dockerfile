@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:4.6
 
 MAINTAINER Rudi Olckers <rudi.olckers@gmail.com>
 
